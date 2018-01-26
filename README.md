@@ -96,10 +96,15 @@ Lower number of batches means higher number of iterations in each EPOCH in neura
 To highlight this, in the following figure ([image3]) I have presented  a comparison between 4, 8 and 16 batch-sizes for a 20 epochs run. Clearly, a batch-size of 4 has lower losses for same number of epochs. This is also evident if we compare the segmented images with different batch-sizes, as is shown below in [image4].
 
 [image3]:./results/plot_20_epoch_multiple_batch.jpg
+
 [image4]:./results/batch_size_comparison.jpg
+
 ---
+
 ![alt text][image3]
+
 ![alt text][image4]
+
 ---
 
 #### Epochs selection
