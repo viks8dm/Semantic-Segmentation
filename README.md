@@ -194,4 +194,4 @@ Some sample result-images using final parameter-set are shown below for referenc
 ![alt text][image13]
 ![alt text][image14]
 
----# Semantic-Segmentation
+---
